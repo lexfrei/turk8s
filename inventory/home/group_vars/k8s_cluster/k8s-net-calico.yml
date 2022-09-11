@@ -117,7 +117,7 @@ calico_pool_blocksize: 26
 # calico_use_default_route_src_ipaddr: false
 
 # Enable calico traffic encryption with wireguard
-calico_wireguard_enabled: true
+calico_wireguard_enabled: false
 
 # Under certain situations liveness and readiness probes may need tunning
 # calico_node_livenessprobe_timeout: 10
